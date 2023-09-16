@@ -1,2 +1,2 @@
 # project-Medical-Store
-group 7: presented by: Neha,Soujanya,Sachin
+group 7: presented by: Soujanya
